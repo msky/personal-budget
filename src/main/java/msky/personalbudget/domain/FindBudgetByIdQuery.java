@@ -1,4 +1,4 @@
-package msky.personalbudget.query;
+package msky.personalbudget.domain;
 
 import lombok.Value;
 
